@@ -123,13 +123,6 @@ Press **`q`** to exit.
 * Web-based dashboard
 * Real-time alerts system
 
----
-
-## 👨‍💻 Author
-
-**Your Name**
-
----
 
 ## ⭐ Contributing
 
